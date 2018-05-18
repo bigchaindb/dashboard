@@ -1,7 +1,8 @@
 # BigchainDB Dashboard - UX Assets and Artefacts
 
 Update – 18.5.2018
-First dashboard interface design thought.
+
+First dashboard interface design thoughts.
 
 Blocks contain "transaction cards" which are separated in CREATE and TRANSFER transaction type. 
 Each transaction contains minimal information – tbd. which are the essential ones.
