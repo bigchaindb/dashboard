@@ -3,10 +3,14 @@
 Update –25.5.2018 [Marius]
 
 Plz fing V0.3 a slightly reworked dashboard interface view (bigchaindb-dashboard-v0-3.png).
-I think there is much more potential for improvement regarding functionality and also UX & design – when I have some more time …
+I think there is much more potential for improvements regarding functionality and also UX & design – Let's work on it when I have some more time …
 
 Happy GDPR day ;)
 Marius
+
+
+--
+
 
 Update – 18.5.2018 [Marius]
 
