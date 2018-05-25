@@ -1,6 +1,14 @@
 # BigchainDB Dashboard - UX Assets and Artefacts
 
-Update – 18.5.2018
+Update –25.5.2018 [Marius]
+
+Plz fing V0.3 a slightly reworked dashboard interface view (bigchaindb-dashboard-v0-3.png).
+I think there is much more potential for improvement regarding functionality and also UX & design – when I have some more time …
+
+Happy GDPR day ;)
+Marius
+
+Update – 18.5.2018 [Marius]
 
 First dashboard interface design thoughts.
 
