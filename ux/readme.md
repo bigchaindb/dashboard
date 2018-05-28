@@ -1,5 +1,15 @@
 # BigchainDB Dashboard - UX Assets and Artefacts
 
+Update –28.5.2018 [Marius]
+
+Two new layouts added:
+
+bigchaindb-dashboard-v0-4.png
+bigchaindb-dashboard-transaction-details-v0-4.png
+
+
+--
+
 Update –25.5.2018 [Marius]
 
 Plz fing V0.3 a slightly reworked dashboard interface view (bigchaindb-dashboard-v0-3.png).
