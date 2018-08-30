@@ -1,5 +1,7 @@
 # BigchainDB Dashboard
 
+**Work in progress!**
+
 This is a react/redux single page application showing BigchainDB transactions as a dynamic timeline view.
 
 More details about the concept and implementation are in the `/specs` directory.
