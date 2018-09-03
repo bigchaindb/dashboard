@@ -1,0 +1,22 @@
+.blockDisplay {
+  margin: 0 auto;
+}
+
+.letOverflow{
+  overflow: scroll;
+  flex-wrap: nowrap !important;
+  overflow-x: scroll;
+  overflow-y: none;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+#dash {
+  margin-bottom: 1%;
+}
+
+.timeline:before{
+  visibility: hidden !important;
+}

@@ -1,0 +1,7 @@
+{
+    "title": "id",
+    "create.description": "asset.data",
+    "transfer.description": "metadata",
+    "maxBlocks": 100,
+    "contextName": "BigchainDB Testnet"
+}

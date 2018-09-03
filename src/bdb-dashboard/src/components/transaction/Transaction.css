@@ -1,0 +1,62 @@
+.fontSize100{
+    font-size: 70px;
+}
+.greenColor{
+    text-transform: uppercase;
+    color: #39BA91 !important;
+    font-weight: bold !important;
+}
+.upperCase{
+    text-transform: uppercase;
+    font-weight: bold !important;
+}
+.font17{
+    font-size: 17px;
+}
+.marginTop4{
+    margin-top: 4%;
+}
+.mb10{
+    margin-bottom: 10%;
+}
+.payloadShadow{
+    box-shadow: 0 1px 3px 0 #25363a, 0 0 0 1px #3d646d !important;
+}
+i.icon, i.icons {
+    font-size: 0.60em !important;
+    color: #767C83 !important;
+}
+
+.trim {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 65%;
+}
+
+.wordWrap {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    max-height: 130px
+}
+
+.ui .card .cardBody{
+    min-height: 190px;
+    max-height: 190px;
+}
+
+.create {
+background-color: #C6E5EB !important;
+}
+
+.transfer {
+    background-color: #82CEE2 !important;
+}
+
+.cardHeader .right{
+    font-weight: bold !important;
+}
+
+.desc {
+    overflow: hidden;
+}

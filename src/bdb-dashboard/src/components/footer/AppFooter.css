@@ -1,0 +1,14 @@
+.appfooter{
+    position: fixed;
+    z-index: 5;
+    margin-left: 100 px;
+    bottom: 0;
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+
+.footer__copyright .menu__link{
+    color: #E8EBEF !important;
+    font-size: 150%;
+}

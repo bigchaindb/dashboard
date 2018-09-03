@@ -1,0 +1,40 @@
+{
+  "name": "bdb-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bigchaindb-driver": "4.1.0",
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-redux": "5.0.7",
+    "redux": "4.0.0",
+    "redux-devtools-extension": "2.13.5",
+    "redux-thunk": "2.3.0",
+    "semantic-ui-css": "2.3.3",
+    "semantic-ui-react": "0.82.1"
+  },
+  "devDependencies": {
+    "babel-preset-env": "1.7.0",
+    "react-scripts": "2.0.0-next.3e165448",
+    "redux-devtools": "3.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "azure_dev": "PORT=80 react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "development": [
+      "last 2 chrome versions",
+      "last 2 firefox versions",
+      "last 2 edge versions"
+    ],
+    "production": [
+      ">0.25%",
+      "not op_mini all",
+      "ie 11"
+    ]
+  }
+}

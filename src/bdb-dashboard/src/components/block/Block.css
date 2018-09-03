@@ -1,0 +1,75 @@
+.bgreen{
+    border:1px solid #00C8A8;
+    border-radius: 8px;
+    resize: both;
+    position: relative;
+    padding: 6px;
+}
+
+.ui.grid {
+    margin-top: 0rem !important;
+    margin-bottom: 25rem !important;
+    margin-left: 0rem !important;
+    margin-right: -1rem !important;
+}
+
+.blockTitle{
+    max-width: 290px;
+    text-align: center;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+.blockTitle #title {
+    color: #00C8A8;
+}
+.blockTitle .blockNo {
+    color: #fff;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+.box> .ui .card {
+    flex: 1 1 289px;
+    margin: 10px;
+  }
+
+.parent {
+    display: flex;
+    flex-direction: column;
+}
+
+.ui.centered.card {
+    margin: 10px !important;
+}
+
+.dot {
+    height: 15px;
+    width: 15px;
+    background-color: rgba(187, 187, 187, 0.6);
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    margin-top: 20px;
+  }
+
+  .front{
+    position: absolute;
+    left: -8px;
+  }
+
+  .back {
+    position: absolute;
+    right: -8px;
+  }
+
+  .line{
+    width: 34px;
+    height: 8px;
+    border-bottom: 2px solid rgba(187, 187, 187, 0.6);
+    position: absolute;
+    margin-left: 15px;
+    }

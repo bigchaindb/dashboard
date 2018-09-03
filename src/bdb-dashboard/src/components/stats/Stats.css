@@ -1,0 +1,29 @@
+.ui.secondary.pointing.menu {
+    background-color: #121A24 !important;
+    margin-top: -14px;
+    
+}
+.ui.secondary.inverted.pointing.menu .item {
+    margin-left: 3%;
+}
+a {
+    color: #767C83 !important;
+}
+
+.ui.secondary.pointing.menu .active.item {
+    border-color: #71F3AE !important;
+}
+
+.connected {
+    margin-right: 2%;
+    width: 100%;
+}
+
+.connRight{
+    text-align: right !important;
+    display: block !important;
+}
+
+div.item span{
+    font-weight: bold !important;
+}

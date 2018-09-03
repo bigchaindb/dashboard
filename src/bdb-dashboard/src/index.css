@@ -1,0 +1,11 @@
+*{
+  font-family: europa;
+  font-style: normal;
+  font-weight: 300 !important;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #3e4855;
+  overflow-y: hidden;
+}
