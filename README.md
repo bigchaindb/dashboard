@@ -43,7 +43,7 @@ The fields `create.description` & `transfer.description` are used to parse the d
 ## How to deploy
 
 1. Clone this repository
-2. Navigate to bdb-dashboard folder with: `cd dashboard/src/app/`
+2. Navigate to app folder with: `cd dashboard/app/`
 3. Install node modules: `npm install`
 4. Modify the `bigchaindb.config.json` & `ui-mapper.config.json` as per the requirement
 5. Run the dev server using `npm start` and open the browser on `localhost:3000`
