@@ -25,7 +25,7 @@ export default class Transaction extends Component {
                 </div>
                 )
                 }
-                <div className="left floated marginTop4 mb10 wordWrap">
+                <div className={this.props.state.operation.toLowerCase()+"Desc left floated marginTop4 mb10 wordWrap"}>
                 {this.props.desc}</div>
             </Card.Description>
             </Card.Content>

@@ -37,7 +37,14 @@ i.icon, i.icons {
 .wordWrap {
     text-overflow: ellipsis;
     overflow: hidden;
+}
+
+.createDesc{
     max-height: 130px
+}
+
+.transferDesc{
+    max-height: 115px
 }
 
 .ui .card .cardBody{
