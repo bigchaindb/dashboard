@@ -1,4 +1,4 @@
 export const MESSAGE_RECEIVED = 'VALID_TX_RECEIVED';
 export const SET_MODAL = 'SET_MODAL';
 export const UPDATE_STATS = 'UPDATE_STATS';
-export const CHECK_BLOCKS = 'CHECK_BLOCKS'
+export const CHECK_BLOCKS = 'CHECK_BLOCKS';

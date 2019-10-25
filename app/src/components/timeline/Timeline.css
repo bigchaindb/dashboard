@@ -2,11 +2,9 @@
   margin: 0 auto;
 }
 
-.letOverflow{
-  overflow: scroll;
+.letOverflow {
   flex-wrap: nowrap !important;
   overflow-x: scroll;
-  overflow-y: none;
 }
 
 ::-webkit-scrollbar {
@@ -17,6 +15,6 @@
   margin-bottom: 1%;
 }
 
-.timeline:before{
+.timeline:before {
   visibility: hidden !important;
 }
