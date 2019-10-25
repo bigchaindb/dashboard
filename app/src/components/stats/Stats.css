@@ -1,29 +1,31 @@
 .ui.secondary.pointing.menu {
-    background-color: #121A24 !important;
-    margin-top: -14px;
+  margin-top: -14px;
+  background-color: #121A24 !important;
     
 }
+
 .ui.secondary.inverted.pointing.menu .item {
-    margin-left: 3%;
+  margin-left: 3%;
 }
+
 a {
-    color: #767C83 !important;
+  color: #767C83 !important;
 }
 
 .ui.secondary.pointing.menu .active.item {
-    border-color: #71F3AE !important;
+  border-color: #71F3AE !important;
 }
 
 .connected {
-    margin-right: 2%;
-    width: 100%;
+  margin-right: 2%;
+  width: 100%;
 }
 
-.connRight{
-    text-align: right !important;
-    display: block !important;
+.connRight {
+  display: block !important;
+  text-align: right !important;
 }
 
-div.item span{
-    font-weight: bold !important;
+div.item span {
+  font-weight: 800 !important;
 }

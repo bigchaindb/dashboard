@@ -1,7 +1,7 @@
 {
-    "host": "test.bigchaindb.com",
-    "ws_port": 443,
+    "host": "bigchaindb:9984",
+    "ws_port": 9985,
     "api": "/api/v1/",
     "validTx": "streams/valid_transactions",
-    "secure": true
+    "secure": false
 }
